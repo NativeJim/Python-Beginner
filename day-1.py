@@ -7,3 +7,5 @@ bool_three = 100 ** 0.5 >= 50 or -- 4 == -4
 bool_four = 4==4 or 4==4
 
 bool_five = 1 ** 100 == 100 ** 1 or 3 * 2 * 1 != 3 + 2 + 1
+
+#Comment for above for booleans Conditionals and Control Flow
